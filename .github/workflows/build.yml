@@ -1,6 +1,3 @@
-Can't create a fork myself since I already have a fork, but if you want to build your own Bootstrap.tipa, FORK THE BOOTSTRAP and make the file .github/workflows/build.yml
-This is build.yml:
-```
 name: Build and Package
 
 on:
